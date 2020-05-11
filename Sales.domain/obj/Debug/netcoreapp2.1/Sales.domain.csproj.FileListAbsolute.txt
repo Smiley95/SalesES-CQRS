@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\bin\Debug\netcoreapp2.1\Sales.Domain.deps.json
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\bin\Debug\netcoreapp2.1\Sales.Domain.dll
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\bin\Debug\netcoreapp2.1\Sales.Domain.pdb
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\obj\Debug\netcoreapp2.1\Sales.Domain.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\obj\Debug\netcoreapp2.1\Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\obj\Debug\netcoreapp2.1\Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\obj\Debug\netcoreapp2.1\Sales.Domain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\obj\Debug\netcoreapp2.1\Sales.Domain.dll
+C:\Users\ASUS\Desktop\LDS\devToDo\SalesProject\Sales.domain\obj\Debug\netcoreapp2.1\Sales.Domain.pdb
